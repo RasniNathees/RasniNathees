@@ -86,13 +86,14 @@
 <a href="https://www.linkedin.com/in/rasninathees" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50"/></a>
 <a href="https://x.com/rnathees" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="Twitter" height="50" width="50"/></a> 
 <a href="https://www.instagram.com/rasninathees/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50"/></a>
-<a href="https://dev.to/rasni" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev.to" height="50" width="50"/></a>
+<a height="100px" href="https://dev.to/rasni" target="blank"><img align="center" src="https://media.dev.to/cdn-cgi/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="dev.to" height="50" width="50"/></a>
 <!-- <a href="https://discordapp.com/users/your-discord-id" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50"/></a> -->
 </p>
 
 <!--profile visit count-->
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=RasniNathees&icon=3&color=6)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=RasniNathees)
+
 </div>
 
 <!--weather widget-->
