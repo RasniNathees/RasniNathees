@@ -23,11 +23,11 @@
 
 <!--Intro start-->
 <div align="center">
-  <p> 🌟 I’m currently working on <strong>AWS, React, React Native, Nodejs, Vue, Anguler, ASP.NET, Larave, JAVA MongoDB</strong></p>
+  <p> 🌟 I’m currently working on <strong>AWS, React, React Native, Nodejs, Vue, Angular, ASP.NET, Larave, JAVA MongoDB</strong></p>
   <p> 🌱 I’m diving into the <strong>Hyper Beast Stack</strong> for Scalable Applications.</p>
   <p> ☁️ Cloud computing enthusiast, mastering <strong>AWS</strong></p>
   <p> 📝 Regularly sharing knowledge on <a href="https://dev.to/rasni"><strong>Dev.to</strong></a></p>
-  <p> 💬 Ask me about <strong>AWS, React, React Native, Nodejs, Vue, Anguler, ASP.NET, Larave, JAVA MongoDB</strong></p>
+  <p> 💬 Ask me about <strong>AWS, React, React Native, Nodejs, Vue, Angular, ASP.NET, Larave, JAVA MongoDB</strong></p>
   <!-- <p> 📫 Reach out at <strong>your-email@example.com</strong></p> -->
   <!-- <p> 🏠 Connect with me on Discord: <a href="https://discordapp.com/users/your-discord-id"><strong>YourDiscordUsername</strong></a></p> -->
 </div>
